@@ -1,4 +1,5 @@
-DatabaseTool
+PHP数据库备份还原类
 ============
 
-a php databasetool(restore and backup)
+本程序利用 PDO方式操作数据库，请在操作前打开pdo扩展
+本程序基于Apache License V2开源协议发布
